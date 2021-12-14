@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usama Ali
 - 👀 I’m interested in Open Source Technology
 - 🌱 I’m currently learning RISC-V Core development
-- 💞️ I’m looking to collaborate on RISC-V
+- 💞️ I’m looking to collaborate on ......    
 - 📫 How to reach me ....................
 
 <!---
