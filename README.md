@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usama Ali
-- 👀 I’m interested in Open Source Technology
-- 🌱 I’m currently learning RISC-V Core development
+- 👀 I’m interested in learning new Technology
+- 🌱 I’m currently working as Backend developer on my final year project
 - 💞️ I’m looking to collaborate on ......    
 - 📫 How to reach me ....................
 
