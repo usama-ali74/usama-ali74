@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m Usama Ali
 - 👀 I’m interested in learning new Technology
-- 🌱 I’m currently working as Backend developer on my final year project
+- 🌱 I’m currently working as Backend developer at KNYSYS
 - 💞️ I’m looking to collaborate on ......    
 - 📫 How to reach me send me a mail {ussaam74@gmail.com} or leave a msg on whatsapp (https://api.whatsapp.com/send?phone=03132102408) or connect with linkedin [https://www.linkedin.com/in/usama-ali-65b28a220/]
 
